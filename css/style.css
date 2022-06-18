@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+    background-color: lightgray;
+}
+
+
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    background-color: gold;;
+}.container-fluid .container .navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    background-image: -webkit-linear-gradient(270deg,rgba(221,200,8,1.00) 0%,rgba(189,172,10,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(221,200,8,1.00) 0%,rgba(189,172,10,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(221,200,8,1.00) 0%,rgba(189,172,10,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(221,200,8,1.00) 0%,rgba(189,172,10,1.00) 100%);
+}
+
+
+.one .container{
+    background-attachment: fixed;
+       background:linear-gradient(rgb(0,0,0,0.85),rgb(0,0,0,0.85)),url('../images/bg2.jpg');
+       background-size: cover;
+       height: 70vh;
+       
+   }
+
+   .two .container{
+       background-attachment: fixed;
+          background:linear-gradient(rgb(0,0,0,0.85),rgb(0,0,0,0.85)),url('../images/order.jpg');
+          background-size: cover;
+          height: 70vh;
+          
+      }
+
+      
+      .col-lg-4 >a{
+        width: 4rem;
+        
+    }
+    
+    
+    
+    .container-fluid .foot {
+        background-color: black;
+    }
+
+
+    /*Services page code start here*/
+    .five .container{
+        background-attachment: fixed;
+           background:linear-gradient(rgb(0,0,0,0.85),rgb(0,0,0,0.85)),url('../images/service.jpg');
+           background-size: cover;
+           height: 70vh;
+           
+       }
+
+/*About Us*/
+       .six .container{
+        background-attachment: fixed;
+           background:linear-gradient(rgb(0,0,0,0.85),rgb(0,0,0,0.85)),url('../images/logo.jpg');
+           background-size: cover;
+           height: 70vh;
+           
+       }
+
+
+       /*Contact Us*/
+       .seven .container{
+        background-attachment: fixed;
+           background:linear-gradient(rgb(0,0,0,0.85),rgb(0,0,0,0.85)),url('../images/king\ are\ bone\ tee.png');
+           background-size: cover;
+           height: 70vh;
+       }
+
+
+       form{
+        background-color: gray;
+        text-align: center;
+        font-size: 1.1rem;
+        font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    }
+    
+    
+    .nav-item >a:hover{
+        border-bottom: 2px solid black;
+    }
+   
+
+
